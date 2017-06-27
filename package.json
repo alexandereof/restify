@@ -1,0 +1,27 @@
+{
+  "name": "rest-api-base",
+  "version": "1.0.1",
+  "description": "rest api books",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "no repository"
+  },
+  "keywords": [
+    "api",
+    "rest",
+    "books"
+  ],
+  "author": "alexandereof",
+  "license": "ISC",
+  "devDependencies": {
+    "restify": "^4.3.0",
+    "underscore": "^1.8.3"
+  },
+  "dependencies": {
+    "mongoose": "^4.10.8"
+  }
+}

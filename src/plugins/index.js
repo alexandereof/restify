@@ -1,0 +1,4 @@
+// installed plugins
+module.exports = {
+
+}

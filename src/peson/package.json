@@ -1,0 +1,11 @@
+{
+  "name": "person",
+  "version": "1.0.1",
+  "description": "enppoint person",
+  "author": "alexandereof",
+  "license": "ISC",
+  "dependencies": {
+    "restify": "^4.3.0",
+    "underscore": "^1.8.3"
+  }
+}
