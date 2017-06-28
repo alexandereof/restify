@@ -1,0 +1,6 @@
+{
+  "name": "person",
+  "version": "1.0.1",
+  "description": "enppoint person",
+  "main" : "PersonController.js"
+}
