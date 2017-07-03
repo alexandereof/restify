@@ -1,0 +1,9 @@
+{
+  "name": "Schemas",
+  "version": "1.0.1",
+  "description": "enppoint person",
+  "main" : "index.js",
+  "dependencies": {
+    "joi" : "^10.6.0"
+  }
+}
