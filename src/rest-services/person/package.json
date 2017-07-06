@@ -1,6 +1,9 @@
 {
-  "name": "person",
+  "name": "com.api.person",
   "version": "1.0.1",
   "description": "enppoint person",
-  "main" : "PersonController.js"
+  "main" : "Controller.js",
+  "dependencies": {
+    "com.base.rest-entities" : "^1.0.0"
+  }
 }

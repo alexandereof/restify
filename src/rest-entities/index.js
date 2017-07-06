@@ -1,5 +1,5 @@
 module.exports = {
-    BaseController : require("./BaseController"), 
+    BaseController : require("./src/BaseController"), 
     Enpoint : {},
     Resource : {}
 }

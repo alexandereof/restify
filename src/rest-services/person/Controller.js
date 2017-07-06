@@ -1,5 +1,5 @@
 
-var BaseControler = require('../lib')
+var BaseControler = require('com.base.rest-entities').BaseControler;
 
 module.exports = {
         name: 'person',
