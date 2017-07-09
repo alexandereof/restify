@@ -9,13 +9,16 @@ function setField(req, res, next) {
 module.exports = {
         //=========spec==============
     spec : {
-        version : '1.0.0',
-        type: 'GET',
-        produce:'application/json',
+        
         consume:'application/json',
+        version : '1.0.0',
+        role:'role-name',
+        type: 'GET',
         path: '/:field',
+        produce:'application/json',
+        
         sumary:'get person\'s attributes',
-        alias: 'getPersonAttribute', 
+        alias: 'getPersonAttribute' 
     },
     action: {
         validate: undefined,        
